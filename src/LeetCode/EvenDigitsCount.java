@@ -1,4 +1,4 @@
-package leetcodepratcie;
+package LeetCode;
 
 
 //to find the length of the number
