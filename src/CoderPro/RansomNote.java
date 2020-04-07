@@ -15,8 +15,8 @@ public class RansomNote {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String note="aabbbcd";
-		String magzaine="aabbccddffg";
+		String note="aa";
+		String magzaine="aab";
 		System.out.println("Is a note can be contructed with Note: "+note+" and Magzaine: "+magzaine+" Result: "+constructNote(note,magzaine));
 	}
 
