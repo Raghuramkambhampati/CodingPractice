@@ -1,4 +1,4 @@
-package LeetCodeBiweekly24;
+package LeetCode24;
 
 public class Problem1 {
 
