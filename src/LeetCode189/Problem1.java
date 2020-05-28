@@ -1,4 +1,4 @@
-package LeetCodeWeek189;
+package LeetCode189;
 
 import java.util.ArrayList;
 
