@@ -1,7 +1,5 @@
 package LeetCode;
 
-import java.util.HashMap;
-
 public class Maxscore {
 
 	public static void main(String[] args) {

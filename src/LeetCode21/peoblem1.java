@@ -1,4 +1,4 @@
-package LeetCode.ContestBiWeekly21;
+package LeetCode21;
 
 import java.util.ArrayList;
 import java.util.Collections;

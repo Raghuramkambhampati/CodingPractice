@@ -1,6 +1,4 @@
-package LeetCode.LeectCodecontest179;
-
-import java.util.HashMap;
+package LeetCode179;
 
 public class Problem2 {
 

@@ -24,11 +24,12 @@ public class RansomNote {
 	public static boolean constructNote(String note,String magzine) {
 		HashMap<Character,Integer> magzineCount= new HashMap<Character,Integer>();
 		Integer count;
+		
 		for(int i=0;i<magzine.length();i++) {
 			count=magzineCount.containsKey(magzine.charAt(i))==false? 0 : magzineCount.get(magzine.charAt(i));
 			magzineCount.put(magzine.charAt(i), ++count);
 		}
-		
+		//System.out.println(mydisdtance);
 		
 		for(int i=0;i<note.length();i++) {
 			if(!magzineCount.containsKey(note.charAt(i)))
